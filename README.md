@@ -1,5 +1,5 @@
-# 3DLeg-Robot
-I designed 3D robot legs using Tinkercad, as part of a mechanical engineering track.
+# 3D Robot Legs
+I designed 3D robot legs using Tinkercad, as part of a mechanical engineering track.🤖
 [Link Tinkercad](https://www.tinkercad.com/dashboard) 
 
 ## Purpose
